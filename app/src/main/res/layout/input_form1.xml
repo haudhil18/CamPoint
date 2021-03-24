@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2196F3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="16dp"
+            android:text="@string/input_form1"
+            android:textAlignment="center"
+            android:textColor="#313131"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <EditText
+                android:id="@+id/et_nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/nama"
+                android:inputType="textCapSentences" />
+            <EditText
+                android:id="@+id/et_alamat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/alamat"
+                android:inputType="textCapSentences"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Leica M10-P Edition Rp.133.100.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Leica D-Lux 7 Silver Rp.20.250.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Leica M10-R Digital Rp.137.100.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4. Leica M10 Monochrom Rp.140.799.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="5. Leica Q2 Black Rp.85.260.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6. Leica QP Black Rp. 57.750.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="7. Leica M10-P Silver Rp.133.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="8. Leica M10-P Black Rp.133.100.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="9. Leica MS2 Rp.103.399.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="10. Fujifilm X100 F Rp.17.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="11. Fujifilm XT4 Kit Rp.32.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12. Fujifilm GFX 50 Body Only Rp.67.000.000"
+                android:textColor="#313131"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="13. Fujifilm Mirrorless X-H1 Body Only Rp.27.499.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="14. Fujifilm X-10 Body Only Rp.15.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="15. Sony A6600 Kit E 18-135mm F/3.5-5.6 OSS III Rp.26.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="16. Sony a7Rr III Body Only Rp.15.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="17. Sony A75 Mark II Body Only Rp.34.999.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="18. Sony A6100 Kit 16-50mm White Rp.12.120.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="19. Sony DSC-WX500 Black Rp.4.299.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="20. Canon EOS M6 Body Only Rp.9.415.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="21. Canon EOS R5 Kit24-105mm F/4L 15 USM RP.77.200.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="22. Canon EOS 6D II Kit 18-135mm IS USM Rp.37.390.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="23. Canon EOS 900 Kit 18-135mm IS USM Rp.23.150.000"
+                android:textColor="#313131"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="24. Canon Powershot G7X Mark II Rp.7.970.000"
+                android:textColor="#313131"/>
+            <EditText
+                android:id="@+id/et_jenis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/jenis"
+                android:inputType="textCapSentences"/>
+            <Button
+                android:id="@+id/btn_beli"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Beli"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

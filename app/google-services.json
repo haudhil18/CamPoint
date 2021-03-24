@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339717637437",
+    "firebase_url": "https://uas4-ad06e-default-rtdb.firebaseio.com",
+    "project_id": "uas4-ad06e",
+    "storage_bucket": "uas4-ad06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339717637437:android:4d0fe55e2fc2d380f3f154",
+        "android_client_info": {
+          "package_name": "com.udinus.a4511_4512_Kelompok07_UASPPB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339717637437-t9it0kllhnf49ac59ndkn1qou44rq0o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_orq0ufpmyGc94zzp7KtiD-OfQI8fV0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339717637437-t9it0kllhnf49ac59ndkn1qou44rq0o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

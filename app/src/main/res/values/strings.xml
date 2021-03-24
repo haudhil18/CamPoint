@@ -1,0 +1,366 @@
+<resources>
+    <string name="app_name">4511_4512_Kelompok07_UASPPB</string>
+    <string name="login_11181">Welcome to Cam Point</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgot_password">Lupa Password ?</string>
+    <string name="log_in">Login</string>
+    <string name="send_request">Send Request</string>
+    <string name="txt_code">Reset Code</string>
+    <string name="enter_reset_code">Enter Reset Code</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Enter Your Name</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password1">Enter Your Password (8 characters)</string>
+    <string name="register">Register</string>
+    <string name="input_form">Data Jual Kamera</string>
+    <string name="namakam">Merk Kamera</string>
+    <string name="konkam">Kondisi Kamera</string>
+    <string name="deskam">Deskripsi Kamera</string>
+    <string name="input_form1">Data Pembeli</string>
+    <string name="alamat">alamat</string>
+    <string name="jenis">jenis kamera</string>
+
+    <string-array name="namakamera01">
+        <item>Leica M10-P Edition ‘Safari’</item>
+        <item>Leica D-Lux 7 Silver</item>
+        <item>Leica M10-R Digital</item>
+        <item>Leica M10 Monochrom</item>
+        <item>LEICA Q2 BLACK</item>
+        <item>Leica QP Black</item>
+        <item>Leica M10-P (Silver)</item>
+        <item>Leica M10-P (Black)</item>
+        <item>Leica SL2</item>
+    </string-array>
+
+    <string-array name="deskripsi01">
+        <item>
+            Spesifikasi :
+            24MP Full-Frame CMOS Sensor, Leica Maestro II Image Processor, Optical 0.73x-Magnification Viewfinder, 3.0″ 1.04m-Dot Touchscreen LCD
+        </item>
+        <item>
+            Spesifikasi :
+            17MP Four Thirds MOS Sensor, DC Vario-Summilux 3.1x Zoom Lens,
+            24-75mm (35mm Equivalent), 2.76m-Dot Electronic Viewfinder,
+            3.0″ 1.24m-Dot Touchscreen LCD Monitor, UHD 4K30p Video Recording,
+            11-fps Shooting, Extended ISO 100-25600, 4K Photo Modes, Post Focus,
+            Built-In Bluetooth and Wi-Fi, Included CF D Flash Unit
+        </item>
+        <item>
+            Spesifikasi :
+            40MP Full-Frame CMOS Sensor, Leica Maestro II Image Processor,
+            Optical 0.73x-Magnification Viewfinder, 3.0″ 1.04m-Dot Touchscreen LCD
+        </item>
+        <item>
+            Spesifikasi :
+            40MP Full-Frame B dan W CMOS Sensor, No Color Array or Low Pass Filter,
+            Leica Maestro II Image Processor, Optical 0.73x-Magnification Viewfinder
+        </item>
+        <item>
+            Spesifikasi :
+            47.3MP Full-Frame CMOS Sensor, Maestro II Image Processor,
+            Summilux 28mm f/1.7 ASPH. Lens, 3.68MP OLED Electronic Viewfinder,
+            3.0″ 1.04m-Dot Touchscreen LCD, DCI 4K24p UHD 4K30p Full HD 120p Video,
+            ISO 50-50000 up to 10-fps Shooting, 35mm 50mm and 75mm Crop Modes,
+            Bluetooth LE and Wi-Fi, Weather-Sealed Construction
+        </item>
+        <item>
+            Spesifikasi :
+            24.2MP Full-Frame CMOS Sensor, Maestro II Image Processor,
+            Summilux 28mm f/1.7 ASPH. Lens, 3.68MP LCOS Electronic Viewfinder
+        </item>
+        <item>
+            Spesifikasi :
+            24MP Full-Frame CMOS Sensor, Leica Maestro II Image Processor,
+            Optical 0.73x-Magnification Viewfinder, 3.0″ 1.04m-Dot Touchscreen LCD
+        </item>
+        <item>
+            Spesifikasi :
+            24MP Full-Frame CMOS Sensor, Leica Maestro II Image Processor,
+            Optical 0.73x-Magnification Viewfinder, 3.0″ 1.04m-Dot Touchscreen LCD
+        </item>
+        <item>
+            Spesifikasi :
+            47.3MP Full-Frame CMOS Sensor, Maestro III Image Processor,
+            5.76m-Dot 0.78x-Mag. EyeRes OLED EVF, 3.2″ 2.1m-Dot Touchscreen LCD
+        </item>
+    </string-array>
+
+    <string-array name="harga01">
+        <item>
+            Harga : Rp.133.100.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+
+        </item>
+        <item>
+            Harga : Rp.20.250.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.137.100.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.140.799.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.85.260.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.57.750.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.133.999.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.133.999.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+        <item>
+            Harga : Rp.103.399.000,
+            Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+        </item>
+    </string-array>
+
+    <string-array name="namakamera02">
+        <item>FUJIFILM X100F</item>
+        <item>Fujifilm X-T4 Kit</item>
+        <item>FUJIFILM Mirrorless X-H1</item>
+        <item>FUJIFILM GFX 50R Mirrorless</item>
+        <item>FUJIFILM X-S10</item>
+    </string-array>
+
+    <string-array name="deskripsi02">
+    <item>
+        Spesifikasi :
+        24.3MP APS-C X-Trans CMOS III Sensor, X-Processor Pro Image Processor,
+        Fujinon 23mm f/2 Lens, Hybrid Optical and Electronic Viewfinder
+    </item>
+        <item>
+        Spesifikasi :
+        26.1MP APS-C X-Trans BSI CMOS 4 Sensor, X-Processor 4 Image Processor,
+        5-Axis In-Body Image Stabilization, DCI/UHD 4K at 60 fps, Full HD at 240 fps
+    </item>
+        <item>
+        Spesifikasi :
+        24MP - APS-C CMOS Sensor, No Optical low-pass (anti-aliasing) filter, ISO 200 - 12800(expands to 100-51200),5-axis Sensor-shift Image Stabilization,
+        3" Tilting Screen, 3690k dot Electronic viewfinder, 14.0 fps continuous shooting, 4K - 4096 x 2160 video resolution, 120 High-Speed Video, Built-in Wireless, 673g. 140 x 97 x 86 mm, Weather Sealed Body
+    </item>
+        <item>
+        Spesifikasi :
+        Rangefinder-Inspired Body Design, 51.4MP 43.8 x 32.9mm CMOS Sensor, X-Processor Pro Image Processor, Built-In 3.69m-Dot 0.77x OLED EVF, 3.2" 2.36m-Dot Tilting Touchscreen LCD,
+        117-Point Contrast-Detection AF System, Extended ISO 50-102400, 3 fps Shooting, Full HD 1080p Video Recording at 30 fps, Bluetooth Low Energy, Dual SD Card Slots, Weather-Sealed Magnesium-Alloy Body
+    </item>
+        <item>
+        Spesifikasi :
+        26MP X-Trans BSI-CMOS sensor, 5-axis in-body image stabilization, On-sensor phase detection, 3", 1.04M-dot fully articulating touchscreen, 2.36M-dot OLED electronic viewfinder, 30 fps burst shooting with crop (up to 20 fps without), DCI and UHD 4K capture at up to 30p with F-Log support, External mic and headphone sockets, 325 shots per charge using LCD, USB Power Delivery support, Single UHS-I card slot, Wi-Fi + Bluetooth
+    </item>
+    </string-array>
+
+    <string-array name="harga02">
+    <item>
+        Harga : Rp.17.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.Rp32.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.27.500.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp. 67.000.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp. 15.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    </string-array>
+
+    <string-array name="namakamera03">
+        <item>Sony a7R III Body Only</item>
+        <item>Sony A7S Mark 11</item>
+        <item>Sony A6600 Kit E 18-135mm</item>
+        <item>Sony A6100 Kit 16-50mm</item>
+        <item>Sony DSC-WX500 Black</item>
+    </string-array>
+
+    <string-array name="deskripsi03">
+    <item>
+        Spesifikasi :
+        42MP Full-Frame Exmor R BSI CMOS Sensor, BIONZ X Image Processor dan Front-End LSI,
+        399-Point AF System dan 10 fps Shooting, UHD 4K30p Video with HLG dan S-Log3 Gammas,
+        3.69m-Dot Tru-Finder OLED EVF, 3.0″ 1.44m-Dot Tilting Touchscreen LCD,
+        5-Axis SteadyShot INSIDE Stabilization, ISO 102400 dan Pixel Shift Multi Shooting,
+        Built-In Wi-Fi/Bluetooth Dual SD Slots, USB 3.1 Gen 1 Type-C Port dan PC Sync Port
+    </item>
+        <item>
+        Spesifikasi :
+        12MP - Full frame CMOS Sensor, ISO 100 – 102400 (expands to 50-409600), 5-axis Sensor-shift Image Stabilization, 3" Tilting Screen, 2359k dot Electronic viewfinder, 5.0 fps continuous shooting, 4K - 3840 x 2160 video resolution, Built-in Wireless, 627g. 127 x 96 x 60 mm, Weather Sealed Body
+    </item>
+        <item>
+        Spesifikasi :
+        24MP APS-C CMOS sensor, Advanced, capable subject-tracking autofocus, In-body image stabilization, 2.36M dot OLED electronic viewfinder, 0.9M dot tilting touchscreen, Wi-Fi for image transfer, and NFC, 4K video capture with log profiles, USB charging, 810-shot battery life (per CIPA), lensa Sony E 18-135mm f/3.5-5.6 OSS
+    </item>
+        <item>
+        Spesifikasi :
+        24MP - APS-C CMOS Sensor, ISO 100 – 32000, 3 Tilting Screen, 1440k dot Electronic viewfinder, 11.0 fps continuous shooting, 4K - 3840 x 2160 video resolution, 120 High-Speed Video, Built-in Wireless, 396g. 120 x 67 x 59 mm
+    </item>
+        <item>
+        Spesifikasi :
+        18MP - 1/2.3 BSI-CMOS Sensor, ISO 80 – 12800, 24-720 mm F3.5-6.4 Zoom Lens, Optical Image Stabilization, 3" Tilting Screen, 10 fps continuous shooting, Built-in Wireless, 1920 x 1080 video resolution, 236g. 102 x 58 x 36 mm
+    </item>
+    </string-array>
+
+    <string-array name="harga03">
+    <item>
+        Harga : Rp.33.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.34.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.26.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.12.120.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.4.229.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    </string-array>
+
+    <string-array name="namakamera04">
+        <item>Canon EOS M6 Body Only</item>
+        <item>Canon EOS 6D Mark II Kit</item>
+        <item>Canon EOS 90D Kit</item>
+        <item>Canon EOS R5 Kit</item>
+        <item>Canon Powershot G7X Mark II</item>
+    </string-array>
+
+    <string-array name="deskripsi04">
+    <item>
+        Spesifikasi :
+        Sensor CMOS APS-C  24.2MP, DIGIC 7 Image Processor,
+        3.0″ 1.04m-Dot Tilting Touchscreen LCD, Full HD 1080p Video Recording at 60 fps,
+        Built-In Wi-Fi atau NFC dan Bluetooth, Dual Pixel CMOS AF,
+        Up to 9 fps Shooting dan ISO 25600, kombinasi 5-Axis Image Stabilization
+    </item>
+        <item>
+        Spesifikasi :
+        26.2MP Full-Frame CMOS Sensor, DIGIC 7 Image Processor, 45-Point All-Cross Type AF System, Full HD Video at 60 fps; Digital IS, 3″ 1.04m-Dot Vari-Angle Touchscreen LCD, Dual Pixel CMOS AF and Movie Servo AF, Native ISO 40000, Expanded to ISO 102400, 5 fps Shooting; Time-Lapse and HDR Movie, Built-In GPS, Bluetooth and Wi-Fi with NFC, Dust and Water Resistant; SD Card Slot, Lensa Canon EF 24-70mm f/4L IS USM
+    </item>
+        <item>
+        Spesifikasi :
+        32.5MP APS-C CMOS Sensor, DIGIC 8 Image Processor, Kit Lens: 18‐135mm IS USM Lens, 4K Video, 3.0 Inch 1.04 m-Dot Vari-Angle TFT Color Liquid, Crystal Touch Screen LCD Monitor, SD/SDHC/SDXC/UHS-I/ UHS-II Card Slot, 45-Point All-Cross Type AF System, Dual Pixel CMOS AF and Movie Servo AF, Bluetooth Low Energy Technology, Wi-Fi, Standard Power Supply: LP-E6 / LP-E6N Battery Pack, Unit Utama
+    </item>
+        <item>
+        Spesifikasi :
+        45MP full-frame Dual Pixel CMOS sensor, 8K video, with option for Raw or 10-bit, 4:2:2 C-log or HDR PQ, Up to 4K/120p, or oversampled 4K up to 30p, 100% coverage Dual Pixel II AF system with human and animal detection trained by machine learning, 12 fps / 20 fps bursts (mech. / elec. shutter), 5.76M-dot OLED EVF with 120fps max refresh rate, 3.2" 2.1M-dot fully articulating touchscreen, 10-bit HDR photos in HEIF format, 1x CFExpress slot, 1x UHS-II SD slot, Claimed weather-sealing to EOS 5D Mark IV levels, 2.4/5Ghz Wi-FI with Bluetooth and FTP connectivity, CIPA rated to around 320 shots (using EVF)
+    </item>
+        <item>
+        Spesifikasi :
+        20MP - 1" BSI-CMOS Sensor, ISO 125 - 12800 (expands to 25600), 24-100 mm F1.8-2.8 Zoom Lens, Optical Image Stabilization, 3″ Tilting Screen, 8.0 fps continuous shooting, 1920 x 1080 video resolution, Built-in Wireless, 319g. 106 x 61 x 42 mm
+    </item>
+    </string-array>
+
+    <string-array name="harga04">
+    <item>
+        Harga : Rp.9.415.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.37.390.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.23.150.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.77.200.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+        <item>
+        Harga : Rp.7.970.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    </string-array>
+
+    <string-array name="namakamera05">
+        <item>Olympus PEN-F</item>
+        <item>Olympus E-M1 Mark III</item>
+        <item>Olympus OM-D E-M10 Mark II</item>
+        <item>Olympus OM-D E-M10 Mark III</item>
+        <item>Olympus PEN-F Kit M. Zuiko</item>
+    </string-array>
+
+    <string-array name="deskripsi05">
+    <item>
+        Spesifikasi :
+        20.3MP Live MOS Sensor, TruePic VII Image Processor,
+        Micro Four Thirds System, 2.36m-Dot OLED Electronic Viewfinder,
+        3.0" 1.037m-Dot Vari-Angle Touchscreen, Full HD 1080p Video Recording at 60 fps,
+        5-Axis In-Body Image Stabilization, ISO 25600 and 10 fps Shooting,
+        Built-In Wi-Fi, 50MP High-Res Shot Mode
+    </item>
+    <item>
+        Spesifikasi :
+        20MP Four Thirds sensor, TruePic, IX Quad Core Processor , 5-Axis Image Stabilization with up to 7.5, 121-point autofocus system with deep learning-based subject recognition , Handheld high-res shot mode , 3.0" Vari-Angle Touch LCD, Dust, Splash and Freezeproof(IPX1 Rated) – Weathersealed, Up to 60 fps Raw + JPEG capture (up to 18 fps with autofocus), Pro Capture mode records frames before you hit the shutter , Image stabilization rated at 7.0 (CIPA standard), up to 7.5EV with 'Sync IS' lenses , 'Live ND' multi-shot mode simulates ND filters ,Large 2.36M-dot LCD viewfinder able to work at up to 120 fps, 420 shots per charge (CIPA) battery life rating, Dual SD card slots (1x UHS-I, 1x UHS-II) , Extensive direct control, AF joystick, articulating touchscreen , UHD 4K/30p video and DCI 24p at up to 237Mbps, Extensive, IPX1-rated weather sealing, USB charging (using USB PD standard)
+    </item>
+    <item>
+        Spesifikasi :
+        16.1MP 4/3 Live MOS Sensor, TruePic VII Image Processor, Micro Four Thirds System, 2.36m-Dot OLED Electronic Viewfinder, Built-in Wi-Fi 81 contrast-detection area, Full HD 1080p / 60, Lensa Olympus M.Zuiko Digital ED 14-42mm f/3.5-5.6 EZ
+    </item>
+    <item>
+        Spesifikasi :
+        16.1MP Four Thirds Live MOS Sensor, Dual Quad-Core TruePic VIII Processor, UHD 4K30 Recording; Clips Video Mode, 2.36m-Dot 1.23x Electronic Viewfinder, 3.0″ 1.04m-Dot Tilting Touchscreen LCD, In-Body 5-Axis Image Stabilization, 121-Point Contrast-Detect AF System, Up to 8.6 fps Shooting and ISO 25600, Digital ED 14-42mm f/3.5-5.6 EZ Lens
+    </item>
+    <item>
+        Spesifikasi :
+        20 Megapixel Live MOS Sensor, 10 fps Sequential Shooting, Interactive OLED Electronic Viewfinder, Built-in Wi-Fi, 50 Megapixel High Res Shot Mode, TruePic VII Image Processor, 1/8000 Sec High-Speed Shutter, Monochrome Color Profile Control, 81-Point Selectable Autofocus
+    </item>
+    </string-array>
+
+    <string-array name="harga05">
+    <item>
+        Harga : Rp.187.990.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    <item>
+        Harga : Rp.26.999.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    <item>
+        Harga : Rp.7.200.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    <item>
+        Harga : Rp.12.499.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    <item>
+        Harga : Rp.21.699.000,
+        Untuk Pembelian bisa menekan menu "jual beli" yang ada di menu utama
+    </item>
+    </string-array>
+    <string name="title_activity_l_b_s">Map</string>
+</resources>

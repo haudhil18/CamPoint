@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wall_10"
+    android:orientation="vertical"
+    android:padding="150px"
+    tools:context=".JualBeli">
+
+    <Button
+        android:id="@+id/FragmentJual"
+        android:layout_width="186dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="30dp"
+        android:background="#2196F3"
+        android:paddingTop="14dp"
+        android:paddingEnd="14dp"
+        android:paddingBottom="23dp"
+        android:text="Jual"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/FragmentBeli"
+        android:layout_width="186dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="30dp"
+        android:background="#2196F3"
+        android:paddingTop="14dp"
+        android:paddingEnd="14dp"
+        android:paddingBottom="23dp"
+        android:text="Beli"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+</LinearLayout>
